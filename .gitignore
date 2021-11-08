@@ -1,3 +1,9 @@
+# Mine
+.vscode/
+tmp_save/
+.ipynb_checkpoints/
+deepsphere-pytorch/
+recon_kappa/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
