@@ -1,6 +1,7 @@
 # Mine
 .vscode/
 tmp_save/
+tmp_data/
 .ipynb_checkpoints/
 deepsphere-pytorch/
 recon_kappa/
